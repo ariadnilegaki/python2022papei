@@ -1,0 +1,12 @@
+{"x":3,"y":4,"name":"bob"}
+{"x":13,"y":-4,"name":"malory"}
+{"x":-3,"y":104,"name":"trudy"}
+{"x":1,"y":14,"name":"alice"}
+{"x":3,"y":4,"name":"bob"}
+{"x":20,"y":-4,"name":"marry"}
+{"x":-100,"y":104,"name":"aria"}
+{"x":0,"y":12,"name":"katia"}
+{"x":5,"y":6,"name":"titos"}
+{"x":500,"y":-9,"name":"john"}
+{"x":-2,"y":80,"name":"jason"}
+{"x":1,"y":67,"name":"panagiota"}
